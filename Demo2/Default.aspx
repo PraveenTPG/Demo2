@@ -16,6 +16,10 @@
             Add some code
             one more line
             second line
+<<<<<<< HEAD
             third one
+=======
+            fourth line
+>>>>>>> adding fourth
     </p>
 </asp:Content>
