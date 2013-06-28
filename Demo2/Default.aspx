@@ -19,12 +19,7 @@
             third one
             fourth line
             Master branch
-<<<<<<< HEAD
             My Branch code    
-            Master from GitHub 
-=======
-            My Branch code   
             From master again 
->>>>>>> again master
     </p>
 </asp:Content>
